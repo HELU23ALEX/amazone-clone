@@ -1,5 +1,3 @@
-
-
 import React from "react";
 import { categoryInfos } from "./CategoryFullInfo"
 import CategoryCard from "./CategoryCard";
