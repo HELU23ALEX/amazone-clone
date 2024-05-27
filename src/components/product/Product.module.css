@@ -63,13 +63,13 @@
   padding: 20px 0px;
 }
 
-.product__flexed .button {
-  display: block;
+.product__flexed .button { 
+  /* display: block; */
+  display: hidden;
   position: static;
   width: 150px;
   margin-right: 40px;
 }
-
 .product__flexed {
   height: 50vh;
 }

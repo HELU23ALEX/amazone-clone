@@ -98,7 +98,8 @@
   color: white;
 }
 .language img {
-  width: 25%;
+  width: 40%;
+  /* height: 25px; */
 }
 .cart {
   position: relative;

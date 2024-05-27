@@ -41,6 +41,18 @@
   gap: 80px;
 }
 
+/* .category_container {
+  position: relative;
+  margin-top: -10%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  max-width: 1600px;
+  gap: 50px;
+  margin-right: auto";
+  margin-left: "auto";
+  place-items: center;
+} */
+
 @media screen and (max-width: 768px) {
   .category_container {
     max-width: 100%;
@@ -54,4 +66,3 @@
     gap: 80px;
   }
 }
-
