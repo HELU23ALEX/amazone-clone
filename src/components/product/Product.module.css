@@ -64,8 +64,7 @@
 }
 
 .product__flexed .button { 
-  /* display: block; */
-  display: hidden;
+  display: block;
   position: static;
   width: 150px;
   margin-right: 40px;
@@ -84,3 +83,4 @@
     flex-direction: column;
   }
 }
+
